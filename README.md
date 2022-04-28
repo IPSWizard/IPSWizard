@@ -1,6 +1,5 @@
 Sajan Isaac Here!!
-
-Linux User
-Tried out every linux distro...
-
-Interested in Programming and Hacking.
+- Linux User
+- Hacker
+- Programmer
+- But just a student...
