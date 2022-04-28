@@ -1,5 +1,6 @@
 Sajan Isaac Here!!
 
-Kali Linux User...
+Linux User
+Tried out every linux distro...
 
 Interested in Programming and Hacking.
